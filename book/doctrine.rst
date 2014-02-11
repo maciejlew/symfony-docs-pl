@@ -446,7 +446,7 @@ Utworzenie schematu i tabel bazy danych
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mamy już teraz użyteczną klasę ``Product`` z informacją odwzorowania instruującą
-Doctrine jak tą klase obsługiwać. Nie mamy jeszcze odpowiadającej tej klasie
+Doctrine jak tą klasę obsługiwać. Nie mamy jeszcze odpowiadającej tej klasie
 tabeli ``product`` w bazie danych. Doctrine może automatycznie tworzyć tabele
 bazy danych potrzebne dla każdej znanej encji w aplikacji. Aby to zrobić,
 wystarczy uruchomić polecenie:
