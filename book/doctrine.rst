@@ -411,7 +411,7 @@ metod).
         * generować klasy repozytorium konfigurowane adnotacją
           ``@ORM\Entity(repositoryClass="...")``;
 
-        * generować właściwy konstrukltor dla relacji 1:n i n:m.
+        * generować właściwy konstruktor dla relacji 1:n i n:m.
 
     Polecenie ``doctrine:generate:entities`` zabezpiecza kopię zapasową oryginalego
     pliku ``Product.php`` mianując ją nazwą ``Product.php~``. W niektórych przypadkach
